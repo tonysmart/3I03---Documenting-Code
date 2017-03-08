@@ -1,0 +1,9 @@
+This repository contains information for 
+COMPSCI 3I03 - Document Code assginment. It contains contains the following documents:
+1.Source Link
+2.Flaws in documentation
+3.List of source files
+4.Log messages (either inline or as links)
+5.Pull request (either inline or as a link)
+
+Feel free to use pull request 
